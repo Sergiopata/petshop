@@ -5,9 +5,11 @@ module.exports = {
   theme: {
     fontFamily: {
       'ibarra': ['Ibarra Real Nova', 'serif'],
-      'roboto': ['Roboto', 'sans-serif']
+      'roboto': ['Roboto', 'sans-serif'],
+    },                     
+    extend: {
+      
     },
-    extend: {},
   },
   plugins: [],
 }
